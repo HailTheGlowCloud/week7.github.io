@@ -1,0 +1,55 @@
+<meta name="viewport" content="width=device-width", initial-scale=1.0">
+
+.body-class {
+ color: navy;
+ background-color: beige;
+}
+
+.header-class {
+ color: white;
+ padding: 8px;
+ background-color: black;
+ border: 5px solid maroon;
+}
+
+.nav-class, .nav-link-class {
+ color: white;
+}
+
+.body-class {
+ background-color: beige;
+ font-family: Arial;
+}
+
+.section-title-class {
+ color: maroon;
+}
+
+.title-class {
+ color: red;
+}
+
+.text-class {
+ color: navy;
+}
+
+.image-class {
+ width: 75%;
+ padding: 20px;
+ border: 5px solid maroon;
+}
+
+img {
+ border: 10px;
+}
+
+.form-class {
+ color: navy;
+ Width: 20%;
+ padding: 5px;
+ border: 3px solid maroon;
+}
+
+.button-class {
+ color: navy;
+}
